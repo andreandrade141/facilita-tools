@@ -2,8 +2,8 @@ import os
 import shutil
 
 
-source_path = '/home/andre/Área de Trabalho/bcklupo/02052022/'
-destination_path = '/home/andre/Área de Trabalho/bcklupo/empty/'
+source_path = ''
+destination_path = ''
 
 
 def move_files(src, dest):
